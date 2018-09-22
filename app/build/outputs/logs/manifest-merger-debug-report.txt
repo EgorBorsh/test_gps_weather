@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\Egor\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b6f1b4d31e33a69e9d1eddbd6b1c62b3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Egor\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8a3d128d82750040198cb4b37485f4c7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Egor\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\db7d2a323dd8d62e8d6e77ff6b120fc3\AndroidManifest.xml:17:1-22:12
@@ -21,20 +21,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Egor\.gradle\c
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Egor\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b994589a374ba63ef8c116df39bff4ea\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Egor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4f342c2a39b300d0903136fcdc6b3ee\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Egor\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f1fb92e11c9b871e7ef07590a0aa998\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
 	package
 		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:2:5-39
 		INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
 		INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-27:12
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:1-29:12
 		INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:1:11-69
@@ -51,7 +51,7 @@ ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:8:5-26:19
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:8:5-28:19
 	android:supportsRtl
 		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
@@ -67,25 +67,29 @@ ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:9:9-28
 activity#com.smollvile.gpsweather.activity.MainActivity
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:17:9-22:20
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:screenOrientation
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:18:13-49
 	android:name
 		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:17:19-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:18:13-21:29
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:19:13-22:29
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:19:17-76
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:20:17-76
 	android:name
-		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:20:27-74
 action#android.intent.action.MAIN
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:20:17-68
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:21:17-68
 	android:name
-		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:21:25-66
 activity#com.smollvile.gpsweather.activity.InfoActivity
-ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:23:9-24:46
+ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:24:9-26:51
+	android:screenOrientation
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:26:13-49
 	android:theme
-		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:24:13-44
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:25:13-44
 	android:name
-		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:23:19-56
+		ADDED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml:24:19-56
 uses-sdk
 INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Egor\AndroidStudioProjects\GPSWeather\app\src\main\AndroidManifest.xml
