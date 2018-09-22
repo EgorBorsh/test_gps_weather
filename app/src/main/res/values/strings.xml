@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GPS &amp; Weather</string>
+    <string name="country">Страна:</string>
+    <string name="coordinates">Координаты:</string>
+    <string name="city">Город:</string>
+    <string name="street">Улица:</string>
+    <string name="house">Дом:</string>
+    <string name="temp">Температура:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="description">Видимость:</string>
+    <string name="wind_speed">Скорость ветра:</string>
+    <string name="text_not_internet">Пожалуйста, включите интернет.
+                                    И возвращайтесь в приложение.</string>
+    <string name="text_not_internet_title">Важно!</string>
+    <string name="text_not_internet_btn">OK</string>
+    <string name="button_fragment_main">Сохранить</string>
+    <string name="not_weather">Не удалось получить данные о погоде</string>
+    <string name="save">Сохранено</string>
+    <string name="open_weather_id">0afdfb37e61656043a6acd500f05e1fb</string>
+</resources>

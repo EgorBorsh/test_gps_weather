@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/country"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage" />
+
+        <TextView
+            android:id="@+id/infoCountry"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/coordinates"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoCor"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/city"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoCity"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/street"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoStreet"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/house"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoHouse"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/temp"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoTemp"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/humidity"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoHumidity"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/description"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoDescription"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_fragment_story"
+        android:layout_marginTop="@dimen/margin_top_fragment_story"
+        android:layout_marginRight="@dimen/margin_right_fragment_story"
+        android:layout_marginLeft="@dimen/margin_left_fragment_story"
+        tools:ignore="RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wind_speed"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+        <TextView
+            android:id="@+id/infoWindSpeed"
+            android:layout_marginStart="@dimen/margin_start_text_view_fragment_story"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@color/colorText"
+            android:textSize="@dimen/text_size_fragment_story"
+            tools:ignore="SpUsage"/>
+
+    </LinearLayout>
+</LinearLayout>

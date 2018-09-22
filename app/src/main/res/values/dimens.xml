@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_fragment_main">10dp</dimen>
+    <dimen name="margin_top_fragment_main">5dp</dimen>
+    <dimen name="margin_right_fragment_main">20dp</dimen>
+    <dimen name="margin_left_fragment_main">20dp</dimen>
+    <dimen name="margin_button_fragment_main">10dp</dimen>
+    <dimen name="text_size_fragment_main">15dp</dimen>
+    <dimen name="padding_button">3dp</dimen>
+    <dimen name="margin_start_text_view_fragment_main">10dp</dimen>
+    <dimen name="margin_card_view">10dp</dimen>
+    <dimen name="card_corner_radius">2dp</dimen>
+    <dimen name="card_elevation">10dp</dimen>
+    <dimen name="text_size_card_view">15dp</dimen>
+    <dimen name="text_size_card_view_two">12dp</dimen>
+    <dimen name="margin_start_text_view_card_view">5dp</dimen>
+    <dimen name="padding_fragment_story">10dp</dimen>
+    <dimen name="margin_top_fragment_story">5dp</dimen>
+    <dimen name="margin_right_fragment_story">20dp</dimen>
+    <dimen name="margin_left_fragment_story">20dp</dimen>
+    <dimen name="margin_button_fragment_story">10dp</dimen>
+    <dimen name="text_size_fragment_story">15dp</dimen>
+    <dimen name="margin_start_text_view_fragment_story">10dp</dimen>
+</resources>
